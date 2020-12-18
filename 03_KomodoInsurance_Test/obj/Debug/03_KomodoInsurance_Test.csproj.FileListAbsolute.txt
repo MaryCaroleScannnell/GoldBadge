@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeProject\03_Komodo_Insurance\03_KomodoInsurance_Test\obj\Debug\03_KomodoInsurance_Test.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\GoldBadgeProject\03_Komodo_Insurance\03_KomodoInsurance_Test\obj\Debug\03_KomodoInsurance_Test.csproj.CoreCompileInputs.cache
